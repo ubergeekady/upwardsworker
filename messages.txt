@@ -1,0 +1,30 @@
+//Message samples
+
+{
+	"messageType":"createLead",
+	"lead_tracker_id":"a97d15e0-0aab-4f32-af78-5e2f163e0711",
+	"user_id":6088
+}
+
+
+{
+	"messageType":"completeKyc",
+	"lead_tracker_id":"a97d15e0-0aab-4f32-af78-5e2f163e0711",
+	"user_id":6088
+}
+
+{"messageType":"completeKyc","lead_tracker_id":"fa28fbbb-4f26-47ed-9ee6-3d2552ddc82f","user_id":629309}
+{"messageType":"createLead","lead_tracker_id":"fa28fbbb-4f26-47ed-9ee6-3d2552ddc82f","user_id":629309}
+
+
+
+//UAT
+
+{'mode': 'debug', 'messageType': 'createLead', 'lead_tracker_id': '37216d91-7f19-4c7a-a42c-c6ac5ef117ca', 'user_id': 637655}
+
+{
+	'mode':'debug', 
+	'messageType': 'completeKyc', 
+	'lead_tracker_id': '37216d91-7f19-4c7a-a42c-c6ac5ef117ca', 
+	'user_id': 637655
+}
